@@ -1,3 +1,2 @@
-1#!/bin/bash
-tr 'Ac' 'Ze'
-
+i1#!/bin/bash
+tr "A" "Z" | tr "c" "e"
